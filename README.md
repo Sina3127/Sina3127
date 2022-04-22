@@ -2,7 +2,7 @@
 
 I am Sina Aminia I like proggramming with python.
 
-<a href="https://sina3127.github.io/" title="About Me">
+<a href="https://sina3127.github.io/" title="About Me" target="_blank">
   My Website
 </a>
                                     
