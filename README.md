@@ -1,12 +1,9 @@
 ### Hi there 👋
 
-I am Sina Aminia I like proggramming with python.
+I am Sina Aminia check out my website.
 
-<a href="https://sinastore.ca/" title="About Me" target="_blank">
-  My Website
-</a>
 <a href="https://sina3127.github.io/" title="About Me" target="_blank">
-  _
+  my website
 </a>
                                     
                                    
